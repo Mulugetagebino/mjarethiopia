@@ -1,2 +1,2 @@
 # mjarethiopia
-Mjar General Electroni s and computer progtamming
+Mjar General Electronics and computer progtamming
